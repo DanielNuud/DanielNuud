@@ -9,6 +9,7 @@ I'm a passionate programmer actively learning Java. I'm 27 years old, and curren
 I also have experience using the Javalin framework for building lightweight and scalable web applications, as well as working with Spring Boot for the development of larger and more complex projects. At the same time, I am enthusiastic about frontend development and actively studying HTML5 and CSS to create a beautiful and user-friendly interface. Taking courses on Hexlet.io allows me to immerse myself in various aspects of programming and continually improve my skills. 
 
 In my free time, I also enjoy solving challenges on CodeWars, enhancing my algorithmic and programming skills.
+
 ![image](https://www.codewars.com/users/DanielNuud/badges/large)
 
 * 🌍  I'm based in Tallinn
