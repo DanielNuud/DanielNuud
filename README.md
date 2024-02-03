@@ -12,7 +12,7 @@ In my free time, I also enjoy solving challenges on CodeWars, enhancing my algor
 * 🖥️  See my portfolio at [GitHub](http://github.com/DanielNuud?tab=repositories)
 * ✉️  You can contact me at [daaniel.nuud@gmail.com](mailto:daaniel.nuud@gmail.com)
 * 🚀  I'm currently working on [Page Analyzer](http://github.com/DanielNuud/java-project-72)
-* 🧠  I'm learning SpringBoot
+* 🧠  I'm learning Java/SpringBoot
 
 ### Skills
 
