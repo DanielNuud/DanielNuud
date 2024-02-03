@@ -6,7 +6,7 @@ Hey, I'm Daniel Nüüd, a 27-year-old enthusiastic programmer currently diving d
 
 ## Skills
 
-- Java
+- Java  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 - HTML5
 - CSS
 - PostgreSQL
