@@ -4,8 +4,10 @@ Hi 👋 My name is Daniel Nüüd
 Back-end Developer
 ------------------
 
-I'm a passionate programmer actively learning Java. I'm 27 years old, and currently, I'm a 3rd-year student at Eesti Ettevõtluskõrgool Mainor, simultaneously studying programming on Hexlet.io. My primary technology stack includes Java, where I focus on creating efficient and reliable applications. 
+I'm a passionate programmer actively learning Java. I'm 27 years old, and currently, I'm a **3rd-year student at Eesti Ettevõtluskõrgool Mainor**, simultaneously studying programming on Hexlet.io. My primary technology stack includes Java, where I focus on creating efficient and reliable applications. 
+
 I also have experience using the Javalin framework for building lightweight and scalable web applications, as well as working with Spring Boot for the development of larger and more complex projects. At the same time, I am enthusiastic about frontend development and actively studying HTML5 and CSS to create a beautiful and user-friendly interface. Taking courses on Hexlet.io allows me to immerse myself in various aspects of programming and continually improve my skills. 
+
 In my free time, I also enjoy solving challenges on CodeWars, enhancing my algorithmic and programming skills.
 
 * 🌍  I'm based in Tallinn
@@ -13,6 +15,7 @@ In my free time, I also enjoy solving challenges on CodeWars, enhancing my algor
 * ✉️  You can contact me at [daaniel.nuud@gmail.com](mailto:daaniel.nuud@gmail.com)
 * 🚀  I'm currently working on [Page Analyzer](http://github.com/DanielNuud/java-project-72)
 * 🧠  I'm learning Java/SpringBoot
+* 🌍  I'm speaking :estonia: :ru: :us:
 
 ### Skills
 
@@ -28,4 +31,4 @@ In my free time, I also enjoy solving challenges on CodeWars, enhancing my algor
 
 ### Badges
 
-<a href="https://github.com/DanielNuud" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNuud&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/DanielNuud" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNuud&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielNuud&theme=2077)
