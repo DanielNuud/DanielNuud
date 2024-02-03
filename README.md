@@ -9,10 +9,15 @@ Hey, I'm Daniel Nüüd, a 27-year-old enthusiastic programmer currently diving d
 - Java
 - HTML5
 - CSS
+- PostgreSQL
+- Oracle
+- Spring Boot
+- Javalin
 
 ## Education and Learning
 
 - Currently enrolled in courses on Hexlet.io
+- 3rd-year student at Eesti Ettevõtluskõrgool Mainor
 
 ## Projects
 
