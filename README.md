@@ -33,7 +33,7 @@ Hey, I'm Daniel Nüüd, a 27-year-old enthusiastic programmer currently diving d
 
 ## GitHub Stats
 
-![GitHub Stats](link_to_your_github_stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielNuud&theme=2077)
 
 ## About My Coding Journey
 
