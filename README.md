@@ -4,7 +4,7 @@ Hi 👋 My name is Daniel Nüüd
 Back-end Developer
 ------------------
 
-I'm a passionate programmer actively learning Java. I'm 27 years old, and currently, I'm a **3rd-year student at Eesti Ettevõtluskõrgool Mainor**, simultaneously studying programming on Hexlet.io. My primary technology stack includes Java, where I focus on creating efficient and reliable applications.  
+I'm a passionate programmer actively learning Java. I'm 28 years old, and currently, I'm a **3rd-year student at Eesti Ettevõtluskõrgool Mainor**, simultaneously studying programming on Hexlet.io and on JavaRush.com as well. My primary technology stack includes Java, where I focus on creating efficient and reliable applications.  
 
 In my free time, I also enjoy solving challenges on CodeWars, enhancing my algorithmic and programming skills.
 
