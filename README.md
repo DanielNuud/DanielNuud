@@ -13,7 +13,6 @@ In my free time, I also enjoy solving challenges on CodeWars, enhancing my algor
 * 🌍  I'm based in Tallinn
 * 🖥️  See my portfolio at [GitHub](http://github.com/DanielNuud?tab=repositories)
 * ✉️  You can contact me at [daaniel.nuud@gmail.com](mailto:daaniel.nuud@gmail.com)
-* 🚀  I'm currently working on [Task Manager](http://github.com/DanielNuud/java-project-99)
 * 🧠  I'm learning Java/SpringBoot
 * 🌍  I'm speaking :estonia: :ru: :us:
 
