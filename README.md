@@ -4,7 +4,13 @@ Hi 👋 My name is Daniel Nüüd
 Back-end Developer
 ------------------
 
-I'm a passionate programmer actively learning Java. I'm 28 years old, and currently, I'm a **3rd-year student at Eesti Ettevõtluskõrgool Mainor**, simultaneously studying programming on Hexlet.io and on JavaRush.com as well. My primary technology stack includes Java, where I focus on creating efficient and reliable applications.  
+Motivated Java developer with a strong academic background and practical project
+experience. Experienced in working with the Spring Framework and currently studying
+reactive programming using Spring WebFlux for my upcoming thesis, aiming to apply
+new knowledge in future projects. Completing a Bachelor's degree in Web Technologies
+at the Estonian Entrepreneurship University of Applied Sciences Mainor. Fluent in
+Estonian, Russian, and English. Motivated to apply my knowledge and learn new
+technologies 
 
 In my free time, I also enjoy solving challenges on CodeWars, enhancing my algorithmic and programming skills.
 
@@ -13,7 +19,7 @@ In my free time, I also enjoy solving challenges on CodeWars, enhancing my algor
 * 🌍  I'm based in Tallinn
 * 🖥️  See my portfolio at [GitHub](http://github.com/DanielNuud?tab=repositories)
 * ✉️  You can contact me at [daaniel.nuud@gmail.com](mailto:daaniel.nuud@gmail.com)
-* 🧠  I'm learning Java/SpringBoot
+* 🧠  I'm learning Reactive Programming
 * 🌍  I'm speaking :estonia: :ru: :us:
 
 ### Skills
